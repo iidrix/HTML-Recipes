@@ -1,0 +1,12 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+ul > li {
+    font-style: italic;
+    color: rgb(104, 57, 179);
+}
+
+a:visited {
+    color: rgb(255, 0, 128);
+}
